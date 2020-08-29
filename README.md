@@ -1,1 +1,1 @@
-# C_Data_Structures
+# Data Structures and Algorithms in C
